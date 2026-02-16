@@ -45,21 +45,19 @@ to analyze performance improvements using multimodal learning.
 - Architecture: Late Fusion Neural Network
 
 
-''' text
+```md
 ## 📁 Project Structure
 
-
+```text
 multimodal-emotion-recognition/
 │
-├── notebook/            # Kaggle execution notebook .ipynb
+├── notebook/            # Kaggle execution notebook
 ├── project/             # Training and testing scripts
 ├── saved_models/        # Trained .h5 models
 ├── Results/             # Accuracy and evaluation plots
 ├── assets/              # Images for README
 ├── README.md
 └── requirements.txt
-
-```
 ___
 
 
@@ -138,6 +136,7 @@ python project/models/fusion_pipeline/test.py
 
 Sammi Kumar
 B.Tech | AI & Data Science
+
 
 
 
