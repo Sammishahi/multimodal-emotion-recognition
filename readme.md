@@ -3,7 +3,7 @@
 This project focuses on recognizing human emotions from speech and text
 using deep learning and multimodal fusion techniques.
 
----
+
 
 ## 📌 Project Overview
 
@@ -16,7 +16,7 @@ This project compares:
 
 to analyze performance improvements using multimodal learning.
 
----
+
 
 ## 📊 Dataset
 
@@ -26,7 +26,7 @@ to analyze performance improvements using multimodal learning.
 - Emotions: Angry, Disgust, Fear, Happy, Neutral, Sad, Pleasant Surprise
 - Recorded by professional actresses
 
----
+
 
 ## 🧠 Models Implemented
 
@@ -44,7 +44,7 @@ to analyze performance improvements using multimodal learning.
 - Feature: Speech + Text
 - Architecture: Late Fusion Neural Network
 
----
+
 
 ## 📁 Project Structure
 
@@ -59,7 +59,7 @@ to analyze performance improvements using multimodal learning.
 └── requirements.txt
 
 
----
+
 
 ## 🧪 Experiments and Implementation
 
@@ -67,7 +67,7 @@ All experiments were conducted on Kaggle platform.
 The complete training process, evaluation metrics,
 and visualizations are available in the notebook folder.
 
----
+
 
 ## 📈 Results
 
@@ -79,7 +79,7 @@ and visualizations are available in the notebook folder.
 | Text   | 1.00     |
 | Fusion | 1.00     |
 
----
+
 
 ### 🔹 Confusion Matrices
 
@@ -92,7 +92,7 @@ and visualizations are available in the notebook folder.
 #### Fusion Model
 ![Fusion Confusion Matrix](assets/fusion_cm.png)
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -136,4 +136,5 @@ python project/models/fusion_pipeline/test.py
 
 Sammi Kumar
 B.Tech | AI & Data Science
+
 
