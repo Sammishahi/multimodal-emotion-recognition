@@ -59,6 +59,7 @@ multimodal-emotion-recognition/
 ├── README.md
 └── requirements.txt
 
+                  ```
 
 
 
@@ -137,6 +138,7 @@ python project/models/fusion_pipeline/test.py
 
 Sammi Kumar
 B.Tech | AI & Data Science
+
 
 
 
