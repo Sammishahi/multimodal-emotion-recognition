@@ -48,7 +48,7 @@ to analyze performance improvements using multimodal learning.
 
 ## 📁 Project Structure
 
-```text
+
 multimodal-emotion-recognition/
 │
 ├── notebook/            # Kaggle execution notebook .ipynb
@@ -86,7 +86,7 @@ and visualizations are available in the notebook folder.
 ### 🔹 Confusion Matrices
 
 #### Speech Model
-![Speech Confusion Matrix](assets/speech_model.png)
+![Speech Confusion Matrix](assets/fusion_model.png)
 
 #### Text Model
 ![Text Confusion Matrix](assets/text_model.png)
@@ -138,6 +138,7 @@ python project/models/fusion_pipeline/test.py
 
 Sammi Kumar
 B.Tech | AI & Data Science
+
 
 
 
