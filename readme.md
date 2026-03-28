@@ -136,7 +136,7 @@ python project/models/fusion_pipeline/test.py
 👨‍💻 Author
 
 Sammi Kumar
-B.Tech | AI & Data Science
+B.Tech | CSE AI
 
 
 
